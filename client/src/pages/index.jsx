@@ -1,0 +1,14 @@
+export { default as Home } from "./Home";
+export { default as News } from "./News";
+// export { default as Community } from "./Community";
+export { default as Login } from "./Login";
+export { default as Register } from "./Register";
+export { default as Authentificate } from "./Authentificate";
+export { default as ErrorPage } from "./ErrorPage";
+export { default as Dashboard } from "../pages/Dashboard";
+export { default as ModifyArticles } from "../pages/ModifyArticles";
+// export { default as AddSubject } from "./SubjectsForm";
+export { default as AddArticle } from "./AddArticle";
+// export { default as EditSubject } from "../pages/EditSubject";
+export { default as EditArticle } from "../pages/EditArticle";
+export { default as ContentArticle } from "../pages/ContentArticle";
